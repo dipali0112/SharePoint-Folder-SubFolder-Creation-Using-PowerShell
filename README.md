@@ -115,13 +115,6 @@ foreach ($folder in $mainFolders) {
 }
 ```
 
-## Troubleshooting 🔧
-- **Module Not Found**: Ensure `PnP.PowerShell` and `Microsoft.Online.SharePoint.PowerShell` modules are installed.
-- **Authentication Issues**: Use `-UseWebLogin` when connecting to SharePoint.
-- **Folder Creation Issues**: Ensure the correct library name and paths are specified.
-- **Folder Count Errors**: Check for proper folder structure in SharePoint.
-
-
 ## GitHub Tags 🔍
 - PowerShell
 - SharePoint Automation
