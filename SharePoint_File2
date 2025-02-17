@@ -1,6 +1,4 @@
- Task 1: [write a PowerShell script to create folders and sub-folders in the SharePoint document library]
-
-
+[write a PowerShell script to create folders and sub-folders in the SharePoint document library]
 
 #Install module
 Install-Module -Name Microsoft.Online.SharePoint.PowerShell -Scope CurrentUser
