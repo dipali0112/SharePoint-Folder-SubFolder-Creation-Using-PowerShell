@@ -1,7 +1,7 @@
 # SharePoint Folder Creation using PowerShell 🚀
 
 ## Overview
-This PowerShell script automates the creation of folders and subfolders within a SharePoint Online document library. Additionally, it ensures that PDF files are uploaded into their respective folders and dynamically updates a 'Folder Count' column.
+This PowerShell script automates the creation of folders and subfolders within a SharePoint Online document library. Additionally, it ensures that PDF files are uploaded into their respective folders and dynamically updates a 'Folder Count' column also you can see the total count of folders.
 
 ## Features ✨
 - ✅ Creates SharePoint document libraries dynamically.
